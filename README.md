@@ -38,5 +38,7 @@ The SOLID concepts are:
 - The **Dependency inversion principle**: "depend upon abstractions, [not] concretions."
 
 ## [Clean code](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
-
 Code is clean if it can be understood easily – by everyone on the team. Clean code can be read and enhanced by a developer other than its original author. With understandability comes readability, changeability, extensibility and maintainability.
+
+## [Clean architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+Clean architecture is a software design philosophy that separates the elements of a design into ring levels. An important goal of clean architecture is to provide developers with a way to organize code in such a way that it encapsulates the business logic but keeps it separate from the delivery mechanism.
