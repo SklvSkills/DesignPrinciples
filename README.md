@@ -36,3 +36,7 @@ The SOLID concepts are:
 - The **Liskov substitution principle**: objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program.
 - The **Interface segregation principle**: "many client-specific interfaces are better than one general-purpose interface."
 - The **Dependency inversion principle**: "depend upon abstractions, [not] concretions."
+
+## [Clean code](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
+
+Code is clean if it can be understood easily – by everyone on the team. Clean code can be read and enhanced by a developer other than its original author. With understandability comes readability, changeability, extensibility and maintainability.
